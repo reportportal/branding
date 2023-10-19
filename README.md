@@ -1,1 +1,1 @@
-# branding
+# Report Portal branding assests
